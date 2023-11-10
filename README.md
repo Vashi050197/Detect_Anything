@@ -16,7 +16,11 @@ https://github.com/Vashi050197/Detect_Anything/assets/60133792/34c41a89-f106-440
  Ouput:
 
 
-https://github.com/Vashi050197/Detect_Anything/assets/60133792/88dab3a7-f426-499a-886f-19eb864b486a
+
+https://github.com/Vashi050197/Detect_Anything/assets/60133792/eb79727c-818a-48c2-8bc4-041a3952f898
+
+
+
 
 
  
