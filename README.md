@@ -10,14 +10,21 @@ Click on Open In Colab!
 
  Input:
  
+ https://github.com/Vashi050197/Detect_Anything/assets/60133792/85a4d4ed-c334-49b9-81cf-bb6a8470f3c3
 
-https://github.com/Vashi050197/Detect_Anything/assets/60133792/34c41a89-f106-440b-ab9d-c808566013f1
+ 
+ Output:
 
- Ouput:
+https://github.com/Vashi050197/Detect_Anything/assets/60133792/3850b02c-7ced-45c6-a76f-b52a15b430da
 
 
 
-https://github.com/Vashi050197/Detect_Anything/assets/60133792/eb79727c-818a-48c2-8bc4-041a3952f898
+
+
+
+
+
+
 
 
 
