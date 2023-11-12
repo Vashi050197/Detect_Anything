@@ -14,7 +14,10 @@ Input:
 
 
 
-https://github.com/Vashi050197/Detect_Anything/assets/60133792/4e439482-ec74-4e61-a4fb-934756c8e2ec
+https://github.com/Vashi050197/Detect_Anything/assets/60133792/90b697f0-afe3-4f33-ae76-4aaa3416f4e9
+
+
+
 
 
 Output:
@@ -22,7 +25,12 @@ Output:
 
 
 
-https://github.com/Vashi050197/Detect_Anything/assets/60133792/58f24a0d-6755-473a-a67b-f330e6d1e5a9
+
+https://github.com/Vashi050197/Detect_Anything/assets/60133792/1f8f4f3b-b73d-435d-a1a5-f9f4a6378426
+
+
+
+
 
 
  Input:
