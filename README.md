@@ -34,14 +34,23 @@ https://github.com/Vashi050197/Detect_Anything/assets/60133792/1f8f4f3b-b73d-435
 
 
  Input:
+
+ You can use different prompt to get different result. For more understanding please refer below example. 1st Output is for "Bottle" prompt where as 2nd Output is for "Person". 
  
  https://github.com/Vashi050197/Detect_Anything/assets/60133792/85a4d4ed-c334-49b9-81cf-bb6a8470f3c3
 
  
  Output:
 
+ 
+1.
+
 https://github.com/Vashi050197/Detect_Anything/assets/60133792/3850b02c-7ced-45c6-a76f-b52a15b430da
 
+
+
+2.
+https://github.com/Vashi050197/Detect_Anything/assets/60133792/6f6ba615-ec5e-42cc-9669-95a059e09274
 
 
 
