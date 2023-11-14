@@ -2,6 +2,16 @@
 Detect whatever you want.
 
 # Usage
+
+# To use this model:
+
+1.  Click the Open in Colab button below, or check out the main code in the Detect_Anything.ipynb file.
+2.  If you're running the model on Colab, change your runtime setting to T4 GPU for faster processing.
+3.  In line 7 or 8, upload the video you want to detect.
+4.  In line 10, tell the model what you want to detect in the video, such as "man", "bottle", etc.
+5.  For testing purposes, keep your input video short (up to 3 seconds).
+6.  In case of any help feel free to reach out to me  vashi5684@gmail.com
+
 Click on Open In Colab!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VqNwTAhkzhnBfTngvEyEGRKMeCXEP0Pf?usp=sharing)
@@ -53,7 +63,15 @@ https://github.com/Vashi050197/Detect_Anything/assets/60133792/3850b02c-7ced-45c
 https://github.com/Vashi050197/Detect_Anything/assets/60133792/6f6ba615-ec5e-42cc-9669-95a059e09274
 
 
+# Contact
 
+If you have any questions or suggestions, please feel free to reach out to the project maintainer:
+
+  Vashisth Malik
+  
+  Email: vashi5684@gmail.com
+  
+Feel free to explore, experiment, and contribute to this framework. If you encounter issues or have suggestions, please open an issue on the GitHub repository.
 
 
 
